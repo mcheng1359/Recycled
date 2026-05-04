@@ -49,8 +49,8 @@ But there's a catch: if too much trash piles up on the map without being collect
 
 - [Unity](https://unity.com/) — game engine
 - **C#** — game logic and player controllers
-- **ShaderLab / HLSL** — custom shaders for visual effects
 - **WebGL** — browser-compatible build target
+- **Unity Asset Store** — free park and capsule character assets
 
 ---
 
